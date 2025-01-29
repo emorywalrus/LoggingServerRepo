@@ -1,1 +1,3 @@
 # LoggingServerRepo
+
+Contains server executable
