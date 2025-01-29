@@ -32,7 +32,7 @@ struct qt_meta_stringdata_LoggingServer_t {
     char stringdata0[14];
     char stringdata1[15];
     char stringdata2[1];
-    char stringdata3[10];
+    char stringdata3[11];
 };
 #define QT_MOC_LITERAL(ofs, len) \
     uint(sizeof(qt_meta_stringdata_LoggingServer_t::offsetsAndSizes) + ofs), len 
@@ -41,12 +41,12 @@ Q_CONSTINIT static const qt_meta_stringdata_LoggingServer_t qt_meta_stringdata_L
         QT_MOC_LITERAL(0, 13),  // "LoggingServer"
         QT_MOC_LITERAL(14, 14),  // "new_connection"
         QT_MOC_LITERAL(29, 0),  // ""
-        QT_MOC_LITERAL(30, 9)   // "new_input"
+        QT_MOC_LITERAL(30, 10)   // "read_ready"
     },
     "LoggingServer",
     "new_connection",
     "",
-    "new_input"
+    "read_ready"
 };
 #undef QT_MOC_LITERAL
 } // unnamed namespace
@@ -86,7 +86,7 @@ Q_CONSTINIT const QMetaObject LoggingServer::staticMetaObject = { {
         QtPrivate::TypeAndForceComplete<LoggingServer, std::true_type>,
         // method 'new_connection'
         QtPrivate::TypeAndForceComplete<void, std::false_type>,
-        // method 'new_input'
+        // method 'read_ready'
         QtPrivate::TypeAndForceComplete<void, std::false_type>
     >,
     nullptr
@@ -99,7 +99,7 @@ void LoggingServer::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _i
         (void)_t;
         switch (_id) {
         case 0: _t->new_connection(); break;
-        case 1: _t->new_input(); break;
+        case 1: _t->read_ready(); break;
         default: ;
         }
     }
