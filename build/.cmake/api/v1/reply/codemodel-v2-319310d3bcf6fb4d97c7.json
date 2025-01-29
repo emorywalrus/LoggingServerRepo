@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LoggingServer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LoggingServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LoggingServer-Debug-dc6875bd1864d4feda25.json",
+					"name" : "LoggingServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LoggingServer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LoggingServer_autogen-Debug-2e4c094a6cd0d8c90b4d.json",
+					"name" : "LoggingServer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LoggingServer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LoggingServer_autogen_timestamp_deps-Debug-01c1df3acb436867ff51.json",
+					"name" : "LoggingServer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/emorywrussell/LoggingServerRepo/build",
+		"source" : "/home/emorywrussell/LoggingServerRepo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

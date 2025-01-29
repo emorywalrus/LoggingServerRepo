@@ -1,0 +1,5 @@
+/home/emorywrussell/LoggingServerRepo/build/CMakeFiles/LoggingServer.dir
+/home/emorywrussell/LoggingServerRepo/build/CMakeFiles/edit_cache.dir
+/home/emorywrussell/LoggingServerRepo/build/CMakeFiles/rebuild_cache.dir
+/home/emorywrussell/LoggingServerRepo/build/CMakeFiles/LoggingServer_autogen_timestamp_deps.dir
+/home/emorywrussell/LoggingServerRepo/build/CMakeFiles/LoggingServer_autogen.dir

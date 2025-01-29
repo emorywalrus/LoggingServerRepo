@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/emorywrussell/LoggingServerRepo/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -I/home/emorywrussell/LoggingServerRepo/build/LoggingServer_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -g -fPIC -o CMakeFiles/LoggingServer.dir/LoggingServer_autogen/mocs_compilation.cpp.o -c /home/emorywrussell/LoggingServerRepo/build/LoggingServer_autogen/mocs_compilation.cpp",
+  "file": "/home/emorywrussell/LoggingServerRepo/build/LoggingServer_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/LoggingServer.dir/LoggingServer_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/emorywrussell/LoggingServerRepo/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -I/home/emorywrussell/LoggingServerRepo/build/LoggingServer_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -g -fPIC -o CMakeFiles/LoggingServer.dir/main.cpp.o -c /home/emorywrussell/LoggingServerRepo/main.cpp",
+  "file": "/home/emorywrussell/LoggingServerRepo/main.cpp",
+  "output": "CMakeFiles/LoggingServer.dir/main.cpp.o"
+}
+]
